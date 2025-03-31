@@ -4,13 +4,8 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
-# system files
-tmp
+## System files
 .DS_Store
 
 # IDEA files
 .idea
-
-# Dependency directories
-node_modules/
-jspm_packages/
